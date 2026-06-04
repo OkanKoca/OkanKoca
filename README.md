@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=okankoca&label=Profile%20views&color=0e75b6&style=flat" alt="okankoca" /> </p>
 
-- 🌱 I’m currently learning **Full Stack .NET Development**. You can find my projects in my profile.
+
 
 <h3 align="left">Connect with me:</h3>
 <table align="left" cellpadding="0" cellspacing="0">
