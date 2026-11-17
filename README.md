@@ -18,8 +18,6 @@
 
 - **Learning and experimenting:** I enjoy exploring new technologies, participating in hackathons, collaborating with others, and challenging myself with unfamiliar problems and ideas.
 
-Outside of coding, I enjoy playing tennis, organizing events, and occasionally going on a side quest.
-
 ## GitHub activity
 
 <p align="center">
